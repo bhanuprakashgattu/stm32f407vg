@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=D:/stm projects/TIMER TASK2/Inc
+HeaderPath=D:/github/stm32f407vg/TIMER TASK2/Inc
 HeaderFiles=stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;
-SourcePath=D:/stm projects/TIMER TASK2/Src
+SourcePath=D:/github/stm32f407vg/TIMER TASK2/Src
 SourceFiles=stm32f4xx_it.c;stm32f4xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
