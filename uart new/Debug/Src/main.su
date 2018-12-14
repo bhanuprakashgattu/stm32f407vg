@@ -1,0 +1,4 @@
+main.c:63:10:varToStrConv	8	static
+main.c:134:6:SystemClock_Config	88	static
+main.c:81:5:main	48	static
+main.c:241:6:_Error_Handler	0	static
